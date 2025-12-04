@@ -1,0 +1,36 @@
+:root{
+  --bg:#f4f6f8;
+  --card:#fff;
+  --accent:#2563eb;
+  --danger:#ef4444;
+  --muted:#6b7280;
+}
+
+body{font-family:Inter, system-ui, Arial, sans-serif;background:var(--bg);margin:0;padding:20px;}
+.app{max-width:1100px;margin:0 auto;}
+header h1{margin:0;font-size:1.4rem;}
+header p{margin:4px 0 18px;color:var(--muted);}
+
+main{display:flex;gap:20px;}
+.left{flex:1;}
+.right{flex:1.6;}
+
+.card{background:var(--card);padding:16px;border-radius:8px;box-shadow:0 2px 8px rgba(2,6,23,0.06);}
+
+.product-list ul{list-style:none;padding:0;margin:0;}
+.product-item{display:flex;justify-content:space-between;align-items:center;padding:8px 0;border-bottom:1px solid #eee;}
+.product-item .meta{display:flex;flex-direction:column;}
+.product-item .meta span{color:var(--muted);font-size:0.9rem;}
+.actions button{margin-left:8px;padding:6px 10px;border-radius:6px;border:1px solid #ddd;background:#fff;cursor:pointer;}
+.actions button.danger{color:var(--danger);border-color:rgba(239,68,68,0.12);}
+
+.detail{margin-top:12px;padding:12px;border-radius:6px;background:#fafafa;border:1px solid #f1f1f1;}
+
+.product-form label{display:block;margin-bottom:8px;font-size:0.9rem;}
+.product-form input, .product-form textarea{width:100%;padding:8px;border-radius:6px;border:1px solid #e6e6e6;margin-top:6px;}
+.form-actions{margin-top:12px;}
+button{background:var(--accent);color:#fff;padding:8px 12px;border:none;border-radius:6px;cursor:pointer;}
+button[disabled]{opacity:0.6;cursor:default;}
+footer{margin-top:18px;color:var(--muted);font-size:0.85rem;}
+.error{color:var(--danger);margin-bottom:8px;}
+.refresh{margin-top:10px;text-align:right;}
