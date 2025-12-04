@@ -6,10 +6,20 @@ using Project1.Application.Interfaces;
 using Project1.Infrastructure.Repositories;
 using Microsoft.OpenApi;
 
+var frontendOrigin = "http://localhost:5173";
 var builder = WebApplication.CreateBuilder(args);
 
 // OpenAPI nativo (.NET 9)
 builder.Services.AddOpenApi();
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("LocalDevPolicy", policy =>
+    {
+        policy.WithOrigins(frontendOrigin)
+              .AllowAnyHeader()
+              .AllowAnyMethod();
+    });
+});
 
 // Swagger (Swashbuckle) para UI
 builder.Services.AddEndpointsApiExplorer();
@@ -30,6 +40,7 @@ if (app.Environment.IsDevelopment())
     app.MapOpenApi();
 
 }
+app.UseCors("LocalDevPolicy");
 
 app.UseHttpsRedirection();
 app.UseAuthorization();
