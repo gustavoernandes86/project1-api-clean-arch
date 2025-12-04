@@ -5,7 +5,7 @@ API simples de produtos para estudar Clean Architecture, SOLID e boas práticas.
 Sem banco (in-memory) para começar.
 
 ## Tech
-- .NET 8
+- .NET 9
 - ASP.NET Core Web API
 
 ## Como rodar
