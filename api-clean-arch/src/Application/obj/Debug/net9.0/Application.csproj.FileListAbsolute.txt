@@ -1,0 +1,16 @@
+F:\_dsv\repos\project1-api-clean-arch\src\Application\bin\Debug\net9.0\Application.deps.json
+F:\_dsv\repos\project1-api-clean-arch\src\Application\bin\Debug\net9.0\Application.dll
+F:\_dsv\repos\project1-api-clean-arch\src\Application\bin\Debug\net9.0\Application.pdb
+F:\_dsv\repos\project1-api-clean-arch\src\Application\bin\Debug\net9.0\Domain.dll
+F:\_dsv\repos\project1-api-clean-arch\src\Application\bin\Debug\net9.0\Domain.pdb
+F:\_dsv\repos\project1-api-clean-arch\src\Application\obj\Debug\net9.0\Application.csproj.AssemblyReference.cache
+F:\_dsv\repos\project1-api-clean-arch\src\Application\obj\Debug\net9.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+F:\_dsv\repos\project1-api-clean-arch\src\Application\obj\Debug\net9.0\Application.AssemblyInfoInputs.cache
+F:\_dsv\repos\project1-api-clean-arch\src\Application\obj\Debug\net9.0\Application.AssemblyInfo.cs
+F:\_dsv\repos\project1-api-clean-arch\src\Application\obj\Debug\net9.0\Application.csproj.CoreCompileInputs.cache
+F:\_dsv\repos\project1-api-clean-arch\src\Application\obj\Debug\net9.0\Application.sourcelink.json
+F:\_dsv\repos\project1-api-clean-arch\src\Application\obj\Debug\net9.0\Applicat.44B5EDA2.Up2Date
+F:\_dsv\repos\project1-api-clean-arch\src\Application\obj\Debug\net9.0\Application.dll
+F:\_dsv\repos\project1-api-clean-arch\src\Application\obj\Debug\net9.0\refint\Application.dll
+F:\_dsv\repos\project1-api-clean-arch\src\Application\obj\Debug\net9.0\Application.pdb
+F:\_dsv\repos\project1-api-clean-arch\src\Application\obj\Debug\net9.0\ref\Application.dll

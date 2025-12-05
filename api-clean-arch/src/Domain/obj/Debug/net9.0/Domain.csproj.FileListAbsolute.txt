@@ -1,0 +1,13 @@
+F:\_dsv\repos\project1-api-clean-arch\src\Domain\bin\Debug\net9.0\Domain.deps.json
+F:\_dsv\repos\project1-api-clean-arch\src\Domain\bin\Debug\net9.0\Domain.dll
+F:\_dsv\repos\project1-api-clean-arch\src\Domain\bin\Debug\net9.0\Domain.pdb
+F:\_dsv\repos\project1-api-clean-arch\src\Domain\obj\Debug\net9.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\_dsv\repos\project1-api-clean-arch\src\Domain\obj\Debug\net9.0\Domain.AssemblyInfoInputs.cache
+F:\_dsv\repos\project1-api-clean-arch\src\Domain\obj\Debug\net9.0\Domain.AssemblyInfo.cs
+F:\_dsv\repos\project1-api-clean-arch\src\Domain\obj\Debug\net9.0\Domain.csproj.CoreCompileInputs.cache
+F:\_dsv\repos\project1-api-clean-arch\src\Domain\obj\Debug\net9.0\Domain.sourcelink.json
+F:\_dsv\repos\project1-api-clean-arch\src\Domain\obj\Debug\net9.0\Domain.dll
+F:\_dsv\repos\project1-api-clean-arch\src\Domain\obj\Debug\net9.0\refint\Domain.dll
+F:\_dsv\repos\project1-api-clean-arch\src\Domain\obj\Debug\net9.0\Domain.pdb
+F:\_dsv\repos\project1-api-clean-arch\src\Domain\obj\Debug\net9.0\ref\Domain.dll
+F:\_dsv\repos\project1\api-clean-arch\src\Domain\obj\Debug\net9.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
